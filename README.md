@@ -17,6 +17,6 @@ My toolset:
 - DevOps >> Docker, Kubernetes, Helm, Jenkins
 - Learning >> Haskell, Rust, Clojure
 
-<div style="margin-top: 48px;" />
+<div style="margin-top: 100px;" />
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddie-hickey/)
