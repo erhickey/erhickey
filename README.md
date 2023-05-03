@@ -1,12 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Eddie Hickey</h1>
 
-<h1 align="center">Hi, I'm Eddie Hickey</h1>
-
-<h3 align="center">A Full-Stack Software Engineer</h3>
-
-<div style="margin-top: 48px;" />
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddie-hickey/)
+<h3 align="center">Full-Stack Software Engineer</h3>
 
 <div style="margin-top: 48px;" />
 
@@ -22,3 +16,7 @@ My toolset:
 - Tools >> Linux, Git, Bash, Lua
 - DevOps >> Docker, Kubernetes, Helm, Jenkins
 - Learning >> Haskell, Rust, Clojure
+
+<div style="margin-top: 48px;" />
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddie-hickey/)
