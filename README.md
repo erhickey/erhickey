@@ -8,7 +8,7 @@ My experience includes creating web apps, REST APIs, SaaS, and database applicat
 
 My toolset:
 
-- Web >> Angular, Vue, Typescript, Javascript
+- Web >> Angular, Vue, Typescript, Javascript, Tailwind
 - APIs >> REST & GraphQL, Java, Python
 - Databases >> MySQL, Postgres, Oracle, MS SQL Server
 - Tools >> Linux, Git, Bash, Lua
