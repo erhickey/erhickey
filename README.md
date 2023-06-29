@@ -10,7 +10,7 @@ I have experience developing web apps, REST APIs, SaaS, desktop and mobile appli
 
 Non-exhaustive list of tools I have used throughout my career:
 
-- Languages >> Typescript, Javascript, Java, Python, Bash, Lua
+- Languages >> Typescript, Javascript, Java, Python, Bash, Lua, SQL
 - Web >> Angular, Vue, React, Tailwind
 - APIs >> REST, GraphQL, Flask, SQLAlchemy, Spring Boot
 - Databases >> MySQL, Postgres, Oracle, MS SQL Server
